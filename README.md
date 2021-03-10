@@ -1,6 +1,6 @@
 # flutter_authentication_ui
-### A Simple Flutter App with my entire focus on just creating a complete UI for login, signup and forgot password.
 
+A Simple Flutter App with my entire focus on just creating a complete UI for login, signup and forgot password.
 I have added validation like empty, max-length or min-lenght and also play around with keyboard types. 
  
 #### Images 
